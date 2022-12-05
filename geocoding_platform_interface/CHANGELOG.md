@@ -1,3 +1,7 @@
+## 2.0.5+2
+
+- Added formattedAddress
+
 ## 2.0.1
 
 - Updated the installation instructions in the README.md file.

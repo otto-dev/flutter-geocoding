@@ -1,3 +1,7 @@
+## 2.0.5+2
+
+- Added formattedAddress
+
 ## 2.0.5+1
 
 - Update pub.dev links
